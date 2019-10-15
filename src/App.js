@@ -12,7 +12,7 @@ class App extends Component {
       <div className='App'>
         <nav>
           {/* <a href='/'>Poem List</a> */}
-          <Link href='/'>Poem List</Link>
+          <Link to='/'>Poem List</Link>
         </nav>
         <header>
           <h1>William Setstatespear</h1>
